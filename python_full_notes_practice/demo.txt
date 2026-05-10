@@ -1,0 +1,6 @@
+Hello I am learning python file handling from the beginning 
+After that I need to learn exception handling 
+Third line 
+Fourth line 
+Fifth line
+sixth line

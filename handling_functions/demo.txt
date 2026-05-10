@@ -1,0 +1,5 @@
+hello I am learning file handling concept from begining.
+hello I am learning file handling concept.
+third line
+fourth line
+fivth line

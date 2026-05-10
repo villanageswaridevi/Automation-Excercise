@@ -1,0 +1,1 @@
+Learning python file handlings along with exception handling mechanism.

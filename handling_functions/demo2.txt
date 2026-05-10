@@ -1,0 +1,5 @@
+Hello File with write mode1
+Hello File with write mode2
+Hello File with write mode3
+Hello File with write mode4
+Hello File with write mode5
